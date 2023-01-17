@@ -14,6 +14,10 @@ Tricks - from Past GCP ACE ,
 
 
 Complete the labs - Understand the command from video and courseintern.com
+Preexisting command to map:
+https://www.courseintern.com/30-days-of-google-cloud-program/
+https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
+
 
 During Exam - Try to get best guess from resources in question to find a best condition for answer.
 
