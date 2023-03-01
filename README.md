@@ -12,14 +12,17 @@ Tricks - from Past GCP ACE ,
 4 days - mock test and preparation for final exam and sending email for voucher to Learning team.
 
 
-
 Complete the labs - Understand the command from video and courseintern.com
 Preexisting command to map:
 https://www.courseintern.com/30-days-of-google-cloud-program/
+https://www.courseintern.com/30-days-of-google-cloud-program/ (Contains all  instruction for reference for all skill badges)
 https://tutorialsdojo.com/google-cloud-platform-gcp-cheat-sheets/
 
 
-During Exam - Try to get best guess from resources in question to find a best condition for answer.
+During Exam - 
+Usual drill for all exams:
+Try to get best guess from resources in question to find a best condition for answer.
+Skip the tough ones for coming back later.
 
 Contents:
 
